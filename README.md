@@ -6,7 +6,7 @@ Python 3.10+
 
 ## Installation Steps
 ```bash
-git clone https://github.com/deons-dennis/miniresume-your-full-name.git
+git clone https://github.com/Deons2001/miniresume-deons-dennis.git
 cd miniresume-your-full-name
 pip install -r requirements.txt
 ```
